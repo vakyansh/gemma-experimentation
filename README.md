@@ -1,7 +1,7 @@
 # gemma-experimentation
 Experimentation on google's gemma model
 
-## Datasets used for gemma2b-hi-v0.01
+## Datasets used for hi-gemma2b-ft-lora-v0.01
 BhabhaAI/indic-instruct-data-v0.1-filtered
 
 yahma/alpaca-cleaned
@@ -14,7 +14,7 @@ yahma/alpaca-cleaned
 |------------------|----------------|
 | gemma2b          | 2.84           |
 | gemma2b-it       | 5.21           |
-| gemmat2b-hi-v0.01| 19.59          |
+| hi-gemma2b-ft-lora-v0.01| 19.59          |
 
 
 
