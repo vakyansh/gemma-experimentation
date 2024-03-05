@@ -20,6 +20,7 @@ yahma/alpaca-cleaned
 
 
 ## Learnings:
+06/03/2024: Added inferene client using gradio. Nice looking UI
 
 02/03/2024: Use packing=True as suggested by Ravi. Avoids nan and inf gradients during training. Also decreases training time.
 
