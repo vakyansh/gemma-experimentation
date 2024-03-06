@@ -5,7 +5,7 @@ Experimentation on google's gemma model
 | Model | Link |
 | --- | ---- |
 | Telugu-LLM-Labs/Indic-gemma-2b-finetuned-sft-Navarasa | [Link](https://github.com/vakyansh/gemma-experimentation/blob/main/demo/unsloth_infer_2b.ipynb) |
-| Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa | [Link][(ttps://github.com/vakyansh/gemma-experimentation/blob/main/demo/unsloth_infer_7b_4bit.ipynb) |
+| Telugu-LLM-Labs/Indic-gemma-7b-finetuned-sft-Navarasa | [Link](https://github.com/vakyansh/gemma-experimentation/blob/main/demo/unsloth_infer_7b_4bit.ipynb) |
 
 
 ## Datasets used for hi-gemma2b-ft-lora-v0.01
