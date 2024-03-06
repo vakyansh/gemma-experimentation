@@ -21,6 +21,7 @@ yahma/alpaca-cleaned
 |------------------|----------------|
 | gemma2b          | 2.84           |
 | gemma2b-it       | 5.21           |
+| Telugu-LLM-Labs/Indic-gemma-2b-finetuned-sft-Navarasa | 6.22 |
 | hi-gemma2b-ft-lora-v0.01| 19.59          |
 
 
