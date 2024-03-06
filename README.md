@@ -17,7 +17,7 @@ yahma/alpaca-cleaned
 
 ### Translation
 
-| Model            | 0-shot BLEU |
+| Model            | 0-shot Eng-Hi BLEU |
 |------------------|----------------|
 | gemma2b          | 2.84           |
 | gemma2b-it       | 5.21           |
