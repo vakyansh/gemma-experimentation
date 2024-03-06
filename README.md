@@ -1,7 +1,7 @@
 # gemma-experimentation
 Experimentation on google's gemma model
 
-## Gradio Inference Demo Added 
+## Gradio Inference Demos 
 | Model | Link |
 | --- | ---- |
 | Telugu-LLM-Labs/Indic-gemma-2b-finetuned-sft-Navarasa | [Link](https://github.com/vakyansh/gemma-experimentation/blob/main/demo/unsloth_infer_2b.ipynb) |
